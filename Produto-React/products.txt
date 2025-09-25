@@ -1,0 +1,55 @@
+Produtos Info: id, nome livro, autor, editora, preço, descrição
+
+produto 1 - 
+	001, 
+	Crime e Castigo, 
+	Fyodor Dostoevsky, 
+	dLivros, 
+	R$ 50,00,
+	Crime e Castigo é uma obra de Fyodor Dostoevsky que mergulha profundamente na psique humana, explorando temas como culpa, redenção, moralidade e a luta interna entre o bem e o mal. Publicado pela primeira vez em 1866, o romance segue a história de Rodion Raskólnikov, um jovem estudante de direito em São Petersburgo, que, movido por um impulso de superioridade intelectual e necessidade financeira, planeja e comete o assassinato de uma agiota idosa.
+
+produto 2 - 
+	002, 
+	Laranja Mecânica, 
+	Anthony Burgess, 
+	dLivros, 
+	R$ 60,00
+	Laranja Mecânica, de Anthony Burgess, é um romance distópico publicado em 1962, que mistura violência, filosofia e uma reflexão perturbadora sobre a liberdade humana e o controle social. A história se passa em uma sociedade futurista e altamente opressiva, onde o protagonista, Alex, é um jovem líder de uma gangue de delinquentes. Ele e seus amigos (ou "drugos") se entregam a um comportamento brutal e hedonista, causando caos nas ruas, praticando crimes violentos e, em um estilo quase carnavalesco, ignorando qualquer moralidade convencional.
+
+produto 3 - 
+	003, 
+	Alice In Wonderland, 
+	Lewis Carroll, 
+	dLivros, 
+	R$ 55,00
+	Alice no País das Maravilhas, de Lewis Carroll, publicado em 1865, é uma obra literária que se tornou um ícone da literatura infantil, mas que também ressoa com leitores de todas as idades. O livro segue as aventuras de Alice, uma menina curiosa que, ao seguir um coelho branco apressado, cai em um buraco e se encontra em um mundo mágico e surreal, repleto de personagens excêntricos e situações que desafiam qualquer lógica ou sentido comum.
+
+produto 4 - 
+	004, 
+	It: A Coisa,
+	Stephen King,
+	dLivros,
+	R$ 60,00
+	It: A Coisa, publicado em 1986, é um dos romances mais emblemáticos de Stephen King. A história se passa na cidade fictícia de Derry, no Maine, e gira em torno de um grupo de crianças que se unem para enfrentar uma entidade maléfica e aterrorizante que se disfarça como seus piores medos. Mas não é só isso… "It" é uma força maligna que assume várias formas, sendo a mais icônica o palhaço Pennywise, um ser que se alimenta do medo e da dor das vítimas, principalmente de crianças.
+
+produto 5 - 
+	005, 
+	Assassinato da Rua Morgue,
+	Edgar Allan Poe,
+	dLivros,
+	R$ 30,00
+	Os Assassinatos da Rua Morgue (1841) é um conto de mistério e investigação escrito por Edgar Allan Poe, e é a primeira vez que aparece um detetive do tipo que conhecemos hoje — um personagem lógico, analítico e observador. O protagonista da história é C. Auguste Dupin, um detetive brilhante e excêntrico, que é chamado para investigar um crime horrível ocorrido em Paris.
+	
+
+
+Nome Loja: LocaMovies
+Produtos características: imagem, nome, preço, descrição (Filmes)
+
+produto 01 -
+	psicose.jpg,
+	Psicose - 1960,
+	R$ 40,00,	
+	Psicose (1960) é um clássico do suspense dirigido por Alfred Hitchcock. A história segue Marion Crane (interpretada por Janet Leigh), uma mulher que, após roubar uma grande quantia de dinheiro de seu chefe, foge e se hospeda em um hotel isolado, o Bates Motel. Lá, ela conhece Norman Bates (Anthony Perkins), o estranho gerente do motel, que vive com sua mãe, Norma.
+
+
+
